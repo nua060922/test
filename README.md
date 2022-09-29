@@ -1,0 +1,3 @@
+# test
+getting to know git
+creating the main branch of the project
